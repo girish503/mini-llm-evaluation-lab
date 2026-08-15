@@ -1,0 +1,3 @@
+prompt,response,learner_level,correctness,method_quality,helpfulness,clarity,learner_appropriateness,preferred,reason,comparison_id
+"What is 25 * 16?","Response 1","Beginner",5,5,3,3,5,"Yes","Better mathematical method for a beginner","comparison_001"
+"What is 25 * 16?","Response 2","Beginner",4,4,5,4,5,"No","Alternative method; less preferred for this beginner","comparison_001"

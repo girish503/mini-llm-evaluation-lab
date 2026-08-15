@@ -1,0 +1,5 @@
+prompt,model,run_id,category,correct
+What is 25 * 16?,qwen2.5:1.5b,run_001,Math,True
+What is the capital of France?,qwen2.5:1.5b,run_002,Knowledge,True
+Write a Python function that returns the square of a number.,qwen2.5:1.5b,run_003,Coding,True
+Explain recursion using a simple real-world example.,qwen2.5:1.5b,run_004,Instruction Following,True

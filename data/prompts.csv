@@ -1,0 +1,5 @@
+prompt,category,expected_answer
+What is 25 * 16?,Math,400
+What is the capital of France?,Knowledge,Paris
+Write a Python function that returns the square of a number.,Coding,
+Explain recursion using a simple real-world example.,Instruction Following,
